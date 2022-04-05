@@ -1,0 +1,17 @@
+27
+player1
+player2
+13
+16
+8
+7
+8
+0
+WrrrrrxW
+xxrrrrrx
+xxrxxrxx
+xxxxxxxx
+xxwxxxxx
+xxxwxxxx
+xwwwwwrw
+wwwwwwxx
